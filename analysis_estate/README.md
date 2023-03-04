@@ -1,6 +1,6 @@
 # Исследование объявлений о продаже квартир
 
-ссылка `analysis_estate_SPb`
+[analysis_estate_SPb]('https://github.com/MaratPshikhachev/repo_example_projects_of_Yandex.Practicum-data_analyst/blob/main/analysis_estate/analysis_estate_SPb.ipynb')
 
 ## Описание проекта
 
