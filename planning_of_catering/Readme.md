@@ -1,6 +1,6 @@
 # Планирование открытия заведений общественного питания
 
-[planning_of_catering](https://github.com/MaratPshikhachev/repo_example_projects_of_Yandex.Practicum-data_analyst/blob/main/planning_of_catering/planning_of_catering.ipynb)
+проект - [planning_of_catering](https://github.com/MaratPshikhachev/repo_example_projects_of_Yandex.Practicum-data_analyst/blob/main/planning_of_catering/planning_of_catering.ipynb)
 
 ## Описание проекта
 
