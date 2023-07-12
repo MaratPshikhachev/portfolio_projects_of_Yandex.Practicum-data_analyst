@@ -1,6 +1,6 @@
 # Исследование поведения пользователей мобильного приложения по продаже продуктов питания
 
-[mobile_app_user_behavior](https://github.com/MaratPshikhachev/repo_example_projects_of_Yandex.Practicum-data_analyst/blob/main/mobile_app_user_behavior/mobile_app_user_behavior.ipynb)
+проект - [mobile_app_user_behavior](https://github.com/MaratPshikhachev/repo_example_projects_of_Yandex.Practicum-data_analyst/blob/main/mobile_app_user_behavior/mobile_app_user_behavior.ipynb)
 
 ## Описание проекта
 
