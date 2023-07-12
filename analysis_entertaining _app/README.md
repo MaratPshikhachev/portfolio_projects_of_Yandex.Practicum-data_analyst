@@ -1,6 +1,6 @@
 # Анализ вложений в рекламу и полученных убытков на примере работы развлекательного приложения
 
-[analysis_entertaining _app](https://github.com/MaratPshikhachev/repo_example_projects_of_Yandex.Practicum-data_analyst/blob/main/analysis_entertaining%20_app/analysis_entertaining%20_app.ipynb)
+проект - [analysis_entertaining _app](https://github.com/MaratPshikhachev/repo_example_projects_of_Yandex.Practicum-data_analyst/blob/main/analysis_entertaining%20_app/analysis_entertaining%20_app.ipynb)
 
 ## Описание проекта
 
