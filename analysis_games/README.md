@@ -1,6 +1,6 @@
 # Анализ закономерностей продаж компьютерных игр через интернет-магазин
 
-[analysis_games](https://github.com/MaratPshikhachev/repo_example_projects_of_Yandex.Practicum-data_analyst/blob/main/analysis_games/analysis_games.ipynb)
+проект - [analysis_games](https://github.com/MaratPshikhachev/repo_example_projects_of_Yandex.Practicum-data_analyst/blob/main/analysis_games/analysis_games.ipynb)
 
 ## Описание проекта
 
